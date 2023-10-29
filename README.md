@@ -1,1 +1,4 @@
-# hello_ben
+### Variables
+### String
+### Num
+### Input
