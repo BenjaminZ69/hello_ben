@@ -1,0 +1,6 @@
+str1 = input("Enter a str1")
+str2 = input("Enter str2")
+str3 = input("Enter str3 :")
+print(str1 + "are blue")
+print(str2 + "are red")
+print(str3 + "are yellow ")
